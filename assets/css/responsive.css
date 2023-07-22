@@ -135,7 +135,7 @@
     position: unset;
     font-size: 17px;
     font-weight: 400;
-    color: #00ca99;
+    color: #0085ea;
   }
   /* Counter area */
   .single-counter-item {
@@ -289,7 +289,7 @@
     margin: auto;
     margin-top: 10px;
     display: table;
-    background-color: #00ca99;
+    background-color: #0085ea;
     width: 100%;
   }
   /* Footer area */
@@ -718,7 +718,7 @@
     position: unset;
     font-size: 17px;
     font-weight: 400;
-    color: #00ca99;
+    color: #0085ea;
   }
   /* Counter area */
   .single-counter-item {
@@ -869,7 +869,7 @@
     margin: auto;
     margin-top: 10px;
     display: table;
-    background-color: #00ca99;
+    background-color: #0085ea;
     width: 100%;
   }
   /* Footer area */
@@ -1366,10 +1366,10 @@
     width: 35px;
     height: 30px;
     padding-top: 14px;
-    color: #00ca99;
+    color: #0085ea;
   }
   .mobile-responsive-nav .mobile-responsive-menu.mean-container a.meanmenu-reveal span {
-    background: #00ca99;
+    background: #0085ea;
     height: 4px;
     margin-top: -6px;
     border-radius: 0;

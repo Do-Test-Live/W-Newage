@@ -28,7 +28,7 @@ Dark Mode Area Style
   left: 0;
   right: 0;
   bottom: 0;
-  background: #00ca99;
+  background: #0085ea;
   -webkit-transition: 0.4s;
   transition: 0.4s;
 }
@@ -53,12 +53,12 @@ Dark Mode Area Style
 }
 
 .switch-box input:checked + .slider {
-  background-color: #00ca99;
+  background-color: #0085ea;
 }
 
 .switch-box input:focus + .slider {
-  -webkit-box-shadow: 0 0 1px #00ca99;
-          box-shadow: 0 0 1px #00ca99;
+  -webkit-box-shadow: 0 0 1px #0085ea;
+          box-shadow: 0 0 1px #0085ea;
 }
 
 .switch-box input:checked + .slider:before {
@@ -217,7 +217,7 @@ Dark Mode Area Style
 }
 
 .theme-dark .patients-content ul li:hover {
-  border-color: #00ca99;
+  border-color: #0085ea;
 }
 
 .theme-dark .form-control {
@@ -227,7 +227,7 @@ Dark Mode Area Style
 }
 
 .theme-dark .form-control:focus {
-  border-color: #00ca99;
+  border-color: #0085ea;
 }
 
 .theme-dark .form-group i {
